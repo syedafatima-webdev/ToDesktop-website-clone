@@ -15,12 +15,12 @@ https:/syedafatima-webdev.github.io/ToDesktop-website-clone/
 
 Add your screenshot here:
 
-![Tailwind Screenshot 1](tailwind/images/tailwind1.png)
-![Tailwind Screenshot 2](tailwind/images/tailwind2.png)
-![Tailwind Screenshot 3](tailwind/images/tailwind3.png)
-![Tailwind Screenshot 4](tailwind/images/tailwind4.png)
-![Tailwind Screenshot 5](tailwind/images/tailwind5.png)
-![Tailwind Screenshot 6](tailwind/images/tailwind6.png)
+![Tailwind Screenshot 1](images/tailwind1.png)
+![Tailwind Screenshot 2](images/tailwind2.png)
+![Tailwind Screenshot 3](images/tailwind3.png)
+![Tailwind Screenshot 4](images/tailwind4.png)
+![Tailwind Screenshot 5](images/tailwind5.png)
+![Tailwind Screenshot 6](images/tailwind6.png)
 
 ---
 
