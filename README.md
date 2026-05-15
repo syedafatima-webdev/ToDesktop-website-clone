@@ -7,7 +7,7 @@ This project is focused on recreating a professional SaaS landing page UI with c
 
 ## 🌐 Live Demo
 
-https:/syedafatima-webdev.github.io/ToDesktop-website-clone/
+https://syedafatima-webdev.github.io/ToDesktop-website-clone/
 
 ---
 
